@@ -1,15 +1,16 @@
-<h1 align="center">Merhaba 👋, Ben Emir Tepedeldiren .</h1>
-<h3 align="center">Eskişehir Osmangazi Üniversitesi Matematik ve Bilgisayar Bilimleri 1. sınıf öğrencisiyim. Sürekli gelişimi hedefleyen, yeni teknolojilere/süreçlere hızla adapte olabilen ve ekip çalışmasına önem veren biriyim.</h3>
+# Hi 👋, I'm Emir Tepedeldiren
 
-- 📫 Bana e-posta adresimden ulaşabilirsiniz -> **emir.tepedeldiren@gmail.com**
+### A passionate junior developer
+
+- 🌱 I'm currently learning **Python and MATLAB**
+
+- 📫 How to reach me **emir.tepedeldiren@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/Emir Tepedeldiren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emir Tepedeldiren" height="30" width="40" /></a>
 <a href="https://instagram.com/emir_tpdldrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emir_tpdldrn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-![snake gif](https://github.com/emirtepedeldiren/emirtepedeldiren/blob/output/github-contribution-grid-snake.gif)
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
