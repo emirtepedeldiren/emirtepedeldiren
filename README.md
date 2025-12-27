@@ -7,6 +7,8 @@
 
 ### A passionate junior developer
 
+- 🔭 I'm currently working on **succeed in my studies and improve my skills in development. I also work in the project development coordinator in MACS (Math and Computer Science) club.**
+
 - 🌱 I'm currently learning **Python and MATLAB**
 
 - 📫 How to reach me **emir.tepedeldiren@gmail.com**
