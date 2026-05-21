@@ -7,7 +7,7 @@
 
 ### A passionate junior developer
 
-I'm currently working on **succeed in my studies and improve my skills in development.
+Right now I'm trying to succeed in my studies and improve myself in the software development.
 
 - 🌱 I'm currently learning Python , HTML , CSS and Java Script
 
