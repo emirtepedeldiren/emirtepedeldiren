@@ -5,11 +5,15 @@
 
 # Hi , I'm Emir Tepedeldiren
 
-### A passionate junior developer
+### Mathematics and Computer Science Student & Software Developer
 
 Right now I'm trying to succeed in my studies and improve myself in the software development.
 
-- 🌱 I'm currently learning Python , HTML , CSS and Java Script
+- I'm currently focused on sharpening my skills in:
+* **Frontend:** HTML5, CSS3 & TypeScript
+* **Backend:** Node.js
+
+🛠️ Building modern web applications and exploring full-stack architecture.
 
 - 📫 How to reach me **emir.tepedeldiren@gmail.com**
 
