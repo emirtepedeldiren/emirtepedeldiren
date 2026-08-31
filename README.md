@@ -10,8 +10,8 @@
 Right now I'm trying to succeed in my studies and improve myself in the software development.
 
 🌱 I'm currently focused on sharpening my skills in:
-* **Frontend:** HTML5, CSS3 & TypeScript
-* **Backend:** Node.js
+* **Frontend:** HTML5, CSS3 & JavaScript
+* **Backend:** Django and Node.js
 
 🛠️ Building modern web applications and exploring full-stack architecture.
 
